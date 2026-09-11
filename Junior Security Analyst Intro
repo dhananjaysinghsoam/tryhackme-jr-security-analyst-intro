@@ -1,0 +1,21 @@
+# TryHackMe: Junior Security Analyst Intro
+
+This repository documents my completion of the **Junior Security Analyst Intro** room on TryHackMe, outlining fundamental concepts and responsibilities of an entry-level security analyst.
+
+## 📌 Room Overview
+The Junior Security Analyst Intro room provides a clear roadmap into the daily duties of a Security Operations Center (SOC) analyst, focusing on log analysis, incident triage, security monitoring, and threat investigation.
+
+## 📊 Summary & Progress
+* **Platform:** TryHackMe
+* **Room:** Junior Security Analyst Intro
+* **Completed Tasks:** 3/3
+* **Points Earned:** 32
+* **Current Streak:** 4 Days
+
+## 🔑 Key Learnings
+* **Core Responsibilities:** Understood the day-to-day workflow of a Tier 1 SOC Analyst, including ticket handling and initial triage.
+* **Security Monitoring:** Explored how analysts utilize SIEM tools to monitor network traffic and analyze system alerts.
+* **Incident Response Process:** Learned the structured methodology for handling security incidents—from detection and containment to remediation.
+
+---
+*Maintained as part of my continuous learning journey in Cybersecurity and DevOps.*
